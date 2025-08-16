@@ -9,7 +9,7 @@ I'm a passionate software engineer specializing in AI-powered solutions and full
 - **Tools & Platforms:** Docker, AWS, GCP, PostgreSQL, MySQL, MongoDB, Git, GitHub, Postman, VS Code
 - **Practices:** CI/CD, GitHub Actions, Agile Development, REST API Design
 
-### 💼 Professional Experience
+### 💼 Experience
 
 **Technical Consulting Writer @Atlan (Dec 2024 - Mar 2025)**
 - Authored REST API and workflow documentation, and created technical guides on design systems and best practices, improving clarity, reducing developer queries by 30%, and streamlining onboarding.
